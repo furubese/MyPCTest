@@ -1,6 +1,9 @@
 # Local .terraform directories
 .terraform/
 
+# provate_env
+*.envrc
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
